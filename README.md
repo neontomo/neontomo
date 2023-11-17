@@ -4,7 +4,7 @@
 Half Swedish, half English living in Stockholm, Sweden. Currently studying AI Business Consulting at Hyper Island and interning as a React dev at [@wail-fm](https://github.com/wail-fm). I work as a programmer and artist, often collaborating with music artists to tackle their tech challenges. My passion lies in exploring the intersection of tech and creativity.
 
 ## Work
-- React Dev internship at Wail, building web and AI tools
+- React Dev internship at [Wail](https://github.com/wail-fm), building web and AI tools
 - Apple Siri team in Ireland
 - React Dev internship at [Changed app](https://www.gochanged.com)
 
