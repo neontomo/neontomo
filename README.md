@@ -1,6 +1,6 @@
 # Tomo Myrman
 
-Half Swedish, half English living in Stockholm. Currently studying AI Business at Hyper Island and interning as a React dev at [@wail-fm](https://github.com/wail-fm). I work as a developer and artist, often collaborating with music artists to tackle their tech challenges. My passion lies in exploring the intersection of tech and creativity. My main tools right now are JavaScript (+ React, Node), CSS (+ Tailwind), HTML, Python and GraphQL.
+Half Swedish, half English living in Stockholm. Recently finished studying AI Business at Hyper Island and interning as a React dev at [@wail-fm](https://github.com/wail-fm). I work as a developer and artist, often collaborating with music artists to tackle their tech challenges. My passion lies in exploring the intersection of tech and creativity. My main tools right now are JavaScript (+ React, Node), CSS (+ Tailwind), HTML, Python and GraphQL.
 
 ## Recent work
 - [Wail](https://github.com/wail-fm) - React Dev internship, building web and AI tools
