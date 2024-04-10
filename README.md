@@ -8,7 +8,7 @@ Actively looking for work in coding, design and similar. Connect: tomo@neontomo.
 
 ## Recent work
 
-- [Techno i Stockholm](https://technoistockholm.se) - Project to map techno events in Stockholm, designed and built by me
+- [Techno i Stockholm](https://technoistockholm.se) - Developed & designed a project to map techno events in Stockholm, actively used by hundreds of people
 - [Wail](https://www.linkedin.com/company/wailfm) - React Dev internship, building web and AI tools
 - [Apple](https://www.apple.com/) - Siri AI/ML training team in Ireland
 - [Changed app](https://www.gochanged.com) - React Dev internship
