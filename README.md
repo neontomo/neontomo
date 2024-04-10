@@ -1,20 +1,35 @@
 # Tomo Myrman
 
-Half Swedish, half English living in Stockholm. Recently finished studying AI Business at Hyper Island and interning as a React dev at [@wail-fm](https://github.com/wail-fm). I work as a developer and artist, often collaborating with music artists to tackle their tech challenges. My passion lies in exploring the intersection of tech and creativity. My main tools right now are JavaScript (+ React, Node), CSS (+ Tailwind), HTML, Python and GraphQL.
+Half Swedish, half English living in Stockholm. Recently finished studying AI Business Consultancy at Hyper Island and interning as a React dev at music event startup [Wail](https://www.linkedin.com/company/wailfm). I work as a developer and artist, often collaborating with music artists to tackle their tech challenges. My passion lies in exploring the intersection of tech and creativity. My main tools right now are JavaScript (+ React, Node), CSS (+ Tailwind), HTML, Python and GraphQL.
+
+## Current status
+
+Actively looking for work in coding, design and similar. Connect: tomo@neontomo.com
 
 ## Recent work
-- [Wail](https://github.com/wail-fm) - React Dev internship, building web and AI tools
-- [Apple](https://www.apple.com/) -  Siri AI/ML training team in Ireland
+
+- [Techno i Stockholm](https://technoistockholm.se) - Project to map techno events in Stockholm, designed and built by me
+- [Wail](https://www.linkedin.com/company/wailfm) - React Dev internship, building web and AI tools
+- [Apple](https://www.apple.com/) - Siri AI/ML training team in Ireland
 - [Changed app](https://www.gochanged.com) - React Dev internship
 
-## Education
-- "AI Business" student at [Hyper Island](https://www.hyperisland.com)
-- "Elements of AI" course at Linköping University
+Professional design portfolio: https://neontomo.com
 
-## Languages
-Fluent in Swedish and English, and conversational in Dutch and Norwegian.
+Dev experimentation portfolio: https://neontomo.com/play
+
+## Education
+
+- AI Business Consultant student at [Hyper Island](https://www.hyperisland.com) (2022-2024)
+- "Elements of AI" course at Linköping University (2022)
+
 
 ## Goals and Values
-Aspiring to become a well-rounded developer with a focus on problem-solving, communication and building relationships. Empathic, strong-minded, respectful. I don't tolerate boundary crossing and stand up for myself and others.
 
-Explore [my repositories](https://github.com/neontomo?tab=repositories) and connect!
+Aspiring to become a well-rounded developer with a focus on problem-solving, communication and building relationships. Empathic, strong-minded, respectful. I stand up for myself and others.
+
+
+## Languages
+
+Fluent in Swedish and English, and conversational in Dutch and Norwegian.
+
+Explore [my repositories](https://github.com/neontomo?tab=repositories) and connect! tomo@neontomo.com
