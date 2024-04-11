@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=neontomo&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Tomo Myrman
 
 Half Swedish, half English living in Stockholm. Recently finished studying AI Business Consultancy at Hyper Island and interning as a React dev at music event startup [Wail](https://www.linkedin.com/company/wailfm). I work as a developer and artist, often collaborating with music artists to tackle their tech challenges. My passion lies in exploring the intersection of tech and creativity. My main tools right now are JavaScript (+ React, Node), CSS (+ Tailwind), HTML, Python and GraphQL.
