@@ -2,32 +2,33 @@
 
 # Tomo Myrman
 
-Half Swedish, half English living in Stockholm. Recently finished studying AI Business Consultancy at Hyper Island and interning as a React dev at music event startup [Wail](https://www.linkedin.com/company/wailfm). I work as a developer and artist, often collaborating with music artists to tackle their tech challenges. My passion lies in exploring the intersection of tech and creativity. My main tools right now are JavaScript (+ React, Node), CSS (+ Tailwind), HTML, Python and GraphQL.
+I'm Tomo Myrman, a software developer consultant based in Stockholm, with prior experience at Apple as an AI annotation analyst. Recently graduated from Hyper Island in AI and Business, my drive is to build products from idea to completion.
+
+With over a decade of coding experience, I've adopted a range of languages and technologies, from JavaScript, CSS, HTML, PHP, jQuery, Python, to more modern tools like React, Tailwind, TypeScript, GraphQL/MongoDB, Node/Express, Next.js/Remix, and more. Comfortable in Mac, Windows and Linux environments and able to configure servers and DNS records.
+
+I'm deeply passionate about technology, always hungry to learn and adapt quickly. Beyond coding, my early background in event management and the hospitality industry equips me with strong communication and teamwork skills. My first instinct is to ask diagnostic or open questions to understand a domain, problem or client better; only then will I give solutions or develop them with research and trial and error.
+
+When you hire me as a developer and consultant, you're not just getting a technical guy – you're dealing with someone who owns projects and has his heart connected to problem-solving. Oh, and I love Seinfeld.
 
 ## Current status
 
-Actively looking for work in coding, design and similar. Connect: tomo@neontomo.com
+Open for consulting gigs. Connect: tomo@neontomo.com
 
 ## Recent work
 
 - [Techno i Stockholm](https://technoistockholm.se) - Developed & designed a project to map techno events in Stockholm, actively used by hundreds of people
-- [Wail](https://www.linkedin.com/company/wailfm) - React Dev internship, building web and AI tools
-- [Apple](https://www.apple.com/) - Siri AI/ML training team in Ireland
-- [Changed app](https://www.gochanged.com) - React Dev internship
+- [Wail](https://www.linkedin.com/company/wailfm) - React Dev, building web and AI tools
+- [Apple](https://www.apple.com/) - Siri AI/ML team in Ireland
+- [Changed app](https://www.gochanged.com) - React Dev
 
-Professional design portfolio: https://neontomo.com
+Professional portfolio: https://neontomo.com
 
-Dev experimentation portfolio: https://neontomo.com/play
+Dev experiment portfolio: https://neontomo.com/play
 
 ## Education
 
-- AI Business Consultant student at [Hyper Island](https://www.hyperisland.com) (2022-2024)
+- AI Business Consultant student at [Hyper Island](https://www.hyperisland.com) (2022 - 2024)
 - "Elements of AI" course at Linköping University (2022)
-
-
-## Goals and Values
-
-Aspiring to become a well-rounded developer with a focus on problem-solving, communication and building relationships. Empathic, strong-minded, respectful. I stand up for myself and others.
 
 
 ## Languages
