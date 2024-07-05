@@ -12,7 +12,7 @@ Oh, and I love Seinfeld. Let's connect!
 
 ## Current status
 
-Open for consulting gigs and joining ambitious teams. Connect: tomomyrman@proton.me
+No longer looking to join a team - hired. But connect: https://www.linkedin.com/in/tomo-myrman
 
 ## Recent work
 
@@ -35,4 +35,4 @@ Dev experiment portfolio: https://neontomo.com/play
 
 Fluent in Swedish and English, and conversational in Dutch and Norwegian.
 
-Explore [my repositories](https://github.com/neontomo?tab=repositories) and connect! tomo@neontomo.com
+Explore [my repositories](https://github.com/neontomo?tab=repositories)
