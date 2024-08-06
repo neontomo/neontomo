@@ -10,10 +10,6 @@ I'm deeply passionate about technology, always hungry to learn and adapt quickly
 
 Oh, and I love Seinfeld. Let's connect!
 
-## Resume
-
-[resume.md](https://github.com/neontomo/neontomo/blob/main/about/resume.md)
-
 ## Current status
 
 No longer looking to join a team - hired. But connect: https://www.linkedin.com/in/tomo-myrman
@@ -25,9 +21,9 @@ No longer looking to join a team - hired. But connect: https://www.linkedin.com/
 - [Apple](https://www.apple.com/) - Siri AI/ML team in Ireland
 - [Changed app](https://www.gochanged.com) - React Dev
 
-Professional portfolio: https://neontomo.com
+## Resume
 
-Dev experiment portfolio: https://neontomo.com/play
+[resume.md](https://github.com/neontomo/neontomo/blob/main/about/resume.md)
 
 ## Education
 
