@@ -6,13 +6,21 @@ tomo@neontomo.com ⚘ Stockholm, Sweden
 
 ## Employment
 
-### Umain
+### [Umain](https://www.umain.com)
 
 _Aug 2024 – Present_
 
 Title: Software Developer – JavaScript, TypeScript, React
 
 Working on building products for businesses.
+
+### [poi.ms](https://poi.ms)
+
+_Jun 2024 – Aug 2024_
+
+Title: iOS Software Developer – Swift, SwiftUI
+
+Worked briefly on a small app startup for organising your thoughts.
 
 ### HRD
 
@@ -24,7 +32,7 @@ Location: Stockholm, Sweden
 
 Working on multiple AI projects in a small startup to realise distribution of music events to local fans.
 
-### Techno i Stockholm
+### [Techno i Stockholm](https://technoistockholm.se)
 
 _Jan 2024 – Jul 2024_
 
