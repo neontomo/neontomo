@@ -14,7 +14,7 @@ Title: Software Developer – JavaScript, TypeScript, React
 
 Working on building products for businesses.
 
-### [poi.ms](https://poi.ms)
+### [Poi](https://poi.ms)
 
 _Jun 2024 – Aug 2024_
 
