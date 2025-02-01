@@ -2,24 +2,25 @@
 
 # Tomo Myrman
 
-Hi, I'm Tomo, a software developer and consultant, and my drive is to build products from idea to completion. I started coding at 10 and been obsessed ever since. I have a burning ambition in me and I'm able to prioritise effectively - two traits that help me move fast and ship excellent code.
+hi, I'm Tomo, and I love ideating, building and shipping products.
 
-With over a decade of coding experience, I've adopted a range of languages and technologies, from JavaScript, CSS, HTML, PHP, jQuery, Python, to more modern tools like React, Tailwind, TypeScript, GraphQL, MongoDB, Node/Express, Next.js/Remix, and more. I have skills in Linux, Mac and servers in general.
+I started coding at 10 years old and was bitten by the problem-solving bug. I'm ambitious and think creatively - two traits that help me move fast and learn new ideas.
 
-I'm deeply passionate about technology, always hungry to learn and adapt quickly. Beyond coding, my early background in event management and the hospitality industry equips me with strong communication and teamwork skills. My first instinct is to ask diagnostic and open questions to understand a domain, problem or client better; only then will I give solutions or develop them with research and trial and error. I love feedback and work best with highly motivated teams.
+I've adopted a range of fullstack technologies, but mainly live in NextJS/TypeScript land these days. I work best with highly motivated teams who communicate openly.
 
-Oh, and I love Seinfeld. Let's connect!
+oh, and I'm obsessed with Twin Peaks and Seinfeld. let's connect!
 
 ## Current status
 
-No longer looking to join a team - hired. But connect: https://www.linkedin.com/in/tomo-myrman
+hired. but feel free to connect: https://www.linkedin.com/in/tomo-myrman
 
 ## Recent work
 
-- [Techno i Stockholm](https://technoistockholm.se) - Developed & designed a project to map techno events in Stockholm, actively used by hundreds of people
-- [Wail](https://www.linkedin.com/company/wailfm) - React Dev, building web and AI tools
+- [Umain](https://www.umain.com) - next.js software dev for client projects, building products and shipping at scale
+- [Techno i Stockholm](https://technoistockholm.se) - developed & designed a project to map techno events in Stockholm, actively used by hundreds of people
+- [Wail](https://www.linkedin.com/company/wailfm) - react dev, building web and AI tools
 - [Apple](https://www.apple.com/) - Siri AI/ML team in Ireland
-- [Changed app](https://www.gochanged.com) - React Dev
+- [Changed app](https://www.gochanged.com) - react dev
 
 ## Resume
 
