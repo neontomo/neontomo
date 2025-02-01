@@ -10,9 +10,9 @@ tomo@neontomo.com ⚘ Stockholm, Sweden
 
 _Aug 2024 – Present_
 
-Title: Software Developer – JavaScript, TypeScript, React
+Title: Software Developer – NextJS, TypeScript, Tailwind, Vitest, Playwright, Storybook
 
-Working on building products for businesses.
+Building products for clients at scale.
 
 ### [Poi](https://poi.ms)
 
