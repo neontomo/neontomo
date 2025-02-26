@@ -1,19 +1,14 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=neontomo&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/fc69b3b6-3bb6-4135-91c5-27ffc57c54cd" />
 
-# Tomo Myrman
+## current status
 
-hi, I'm Tomo, and I love ideating, building and shipping products.
+hired. but feel free to connect.
 
-I started coding at 10 years old and was bitten by the problem-solving bug. I'm ambitious and think creatively - two traits that help me move fast and learn new ideas.
+[linkedin](https://www.linkedin.com/in/tomo-myrman)
 
-I've adopted a range of fullstack technologies, but mainly live in NextJS/TypeScript land these days. I work best with highly motivated teams who communicate openly.
-
-oh, and I'm obsessed with Twin Peaks and Seinfeld. let's connect!
-
-## Current status
-
-hired. but feel free to connect: https://www.linkedin.com/in/tomo-myrman
-
-## Resume
+## resume
 
 [resume.md](https://github.com/neontomo/neontomo/blob/main/about/resume.md)
+
+## stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=neontomo&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
