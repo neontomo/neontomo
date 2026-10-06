@@ -2,7 +2,7 @@
 
 ## current status
 
-hired. but feel free to connect.
+looking for work in Bern, Switzerland, feel free to connect.
 
 [linkedin](https://www.linkedin.com/in/tomo-myrman)
 
